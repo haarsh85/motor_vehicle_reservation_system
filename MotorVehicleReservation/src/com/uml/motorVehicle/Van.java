@@ -1,6 +1,6 @@
 package com.uml.motorVehicle;
 
-import drivingLicense.CarLicense;
+import com.uml.drivingLicense.CarLicense;
 
 public class Van extends Truck{
 	

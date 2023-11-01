@@ -5,9 +5,8 @@ import java.util.ArrayList;
 import com.uml.bill.Bill;
 import com.uml.contracts.RentalContract;
 import com.uml.contracts.ReservationContract;
+import com.uml.drivingLicense.DrivingLicense;
 import com.uml.rentalOffice.RentalOffice;
-
-import drivingLicense.DrivingLicense;
 
 public class Client {
 	

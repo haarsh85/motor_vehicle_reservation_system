@@ -1,4 +1,4 @@
-package drivingLicense;
+package com.uml.drivingLicense;
 
 import com.uml.motorVehicle.Car;
 import com.uml.motorVehicle.Van;

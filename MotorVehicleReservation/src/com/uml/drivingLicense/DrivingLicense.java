@@ -1,4 +1,4 @@
-package drivingLicense;
+package com.uml.drivingLicense;
 
 import com.uml.client.Client;
 
